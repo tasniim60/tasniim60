@@ -1,5 +1,5 @@
 # 💫 About Me:
-'m a .NET Developer with a passion for building reliable and scalable applications.<br>I work mainly with C#, ASP.NET, and .NET Core, focusing on clean code, performance, and best practices.<br><br>I enjoy learning new technologies, solving problems, and turning ideas into real-world solutions.<br>Currently, I'm improving my skills in backend development and working on personal and open-source p
+I'm a .NET Developer with a passion for building reliable and scalable applications.<br>I work mainly with C#, ASP.NET, and .NET Core, focusing on clean code, performance, and best practices.<br><br>I enjoy learning new technologies, solving problems, and turning ideas into real-world solutions.<br>Currently, I'm improving my skills in backend development and working on personal and open-source p
 
 
 ## 🌐 Socials:
